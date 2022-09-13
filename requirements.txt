@@ -43,7 +43,7 @@ Flask-Script==2.0.6
 Flask-SQLAlchemy==2.4.0
 Flask-Uploads==0.2.1
 Flask-WTF==0.14.2
-flower==0.9.3
+flower==1.2.0
 httplib2==0.13.1
 hyperlink==19.0.0
 idna==2.8
